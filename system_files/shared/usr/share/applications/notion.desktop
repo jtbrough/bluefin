@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Notion
+Icon=/usr/share/ublue-os/bluefin/notion.png
+Categories=Office;
+Terminal=false
+Exec=flatpak run --command=/app/bin/edge com.microsoft.Edge --profile-directory=Default --app-id=ghlgdnbjangjlfmlbpdjpiohhofjnbgk --app-url=https://www.notion.so
+TryExec=/var/lib/flatpak/exports/bin/com.microsoft.Edge
+X-Flatpak-Part-Of=com.microsoft.Edge
+StartupNotify=true
+StartupWMClass=crx__ghlgdnbjangjlfmlbpdjpiohhofjnbgk
