@@ -2,14 +2,14 @@
 
 # Jordan's customized fork of the bluefin project
 
-## Built on:
+### Built on:
 
-### Fedora Kinoite - [fedoraproject.org](https://fedoraproject.org/atomic-desktops/kinoite/)
+#### - Fedora Kinoite - [fedoraproject.org](https://fedoraproject.org/atomic-desktops/kinoite/)
 
-### Universal Blue - [universal-blue.org](https://universal-blue.org/)
+#### - Universal Blue - [universal-blue.org](https://universal-blue.org/)
 
-### Bluefin - [projectbluefin.io](https://projectbluefin.io)
+#### - Bluefin - [projectbluefin.io](https://projectbluefin.io)
 
-### Aurora - [getaurora.dev](https://getaurora.dev)
+#### - Aurora - [getaurora.dev](https://getaurora.dev)
 
 ![Screenshot_20240409_234125](https://github.com/ublue-os/bluefin/assets/1264109/08a294ba-c182-4329-aaa2-0d402a92071f)
