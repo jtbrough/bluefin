@@ -58,7 +58,8 @@
 				"libadwaita-qt6",
 				"kde-runtime-docs",
 				"kdeplasma-addons",
-				"plasma-wallpapers-dynamic"
+				"plasma-wallpapers-dynamic",
+				"btrfs-assistant"
 			],
 			"dx": [
 				"adobe-source-code-pro-fonts",
