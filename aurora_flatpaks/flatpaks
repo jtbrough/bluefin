@@ -15,5 +15,5 @@ app/org.raspberrypi.rpi-imager/x86_64/stable
 app/org.localsend.localsend_app/x86_64/stable
 app/com.microsoft.Edge/x86_64/stable
 app/tv.plex.PlexDesktop/x86_64/stable
-app/io.mpv.MPV/x86_64/stable
+app/io.mpv.Mpv/x86_64/stable
 app/org.fkoehler.KTailctl/x86_64/stable
