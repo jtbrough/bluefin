@@ -4,7 +4,7 @@
     "separator": "  ",
     "color": {
       "keys": "bright_cyan"
-    },
+    }
   },
   "modules": [
     {
@@ -19,7 +19,7 @@
     "break",
     {
       "type": "command",
-      "key": "󱋩",
+      "key": " 󱋩",
       "text": "/usr/libexec/ublue-image-info.sh"
     },
     {

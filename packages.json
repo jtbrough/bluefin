@@ -41,6 +41,7 @@
 			],
 			"silverblue": [
 				"gnome-shell-extension-appindicator",
+				"gnome-shell-extension-blur-my-shell",
 				"gnome-shell-extension-caffeine",
 				"gnome-shell-extension-dash-to-dock",
 				"gnome-shell-extension-gsconnect",
@@ -138,7 +139,6 @@
 	"38": {
 		"include": {
 			"silverblue": [
-				"gnome-shell-extension-blur-my-shell",
 				"gnome-shell-extension-tailscale-status"
 			],
 			"dx": [
@@ -160,7 +160,6 @@
 				"input-leap"
 			],
 			"silverblue": [
-				"gnome-shell-extension-blur-my-shell",
 				"gnome-shell-extension-tailscale-gnome-qs",
 				"nautilus-open-any-terminal"
 			],
