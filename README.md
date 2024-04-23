@@ -1,4 +1,5 @@
-[![aurora 40](https://github.com/jtbrough/bluefin/actions/workflows/build-40-aurora.yml/badge.svg)](https://github.com/jtbrough/bluefin/actions/workflows/build-40-aurora.yml)
+[![aurora 40](https://github.com/jtbrough/bluefin/actions/workflows/build-40-aurora.yml/badge.svg)](https://github.com/jtbrough/bluefin/actions/workflows/build-40-aurora.yml) 
+[![Aurora ISO Build](https://github.com/jtbrough/bluefin/actions/workflows/build-aurora-iso.yml/badge.svg)](https://github.com/jtbrough/bluefin/actions/workflows/build-aurora-iso.yml)
 
 # Jordan's customized fork of the bluefin
 
