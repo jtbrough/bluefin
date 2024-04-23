@@ -13,7 +13,8 @@
 
 #### - Aurora - [getaurora.dev](https://getaurora.dev)
 
-![Screenshot_20240409_234125](https://github.com/ublue-os/bluefin/assets/1264109/08a294ba-c182-4329-aaa2-0d402a92071f)
+![Screenshot_20240423_211805](https://github.com/ublue-os/bluefin/assets/40402114/1bea1ed8-d97a-402a-957b-e0f338d38230)
+
 
 #### Rebase
 ```
