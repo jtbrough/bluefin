@@ -18,5 +18,5 @@
 
 #### Rebase
 ```
-rpm-ostree rebase ostree-image-signed:docker://ghcr.io/jtbrough/aurora:40
+rpm-ostree rebase ostree-image-signed:docker://ghcr.io/jtbrough/aurora:latest
 ```
