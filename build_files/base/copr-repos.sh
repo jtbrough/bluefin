@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-set -oue pipefail
+set -ouex pipefail
 
 # Add Staging repo
 wget https://copr.fedorainfracloud.org/coprs/ublue-os/staging/repo/fedora-"${FEDORA_MAJOR_VERSION}"/ublue-os-staging-fedora-"${FEDORA_MAJOR_VERSION}".repo -O /etc/yum.repos.d/ublue-os-staging-fedora-"${FEDORA_MAJOR_VERSION}".repo
@@ -28,12 +28,13 @@ if [ "${FEDORA_MAJOR_VERSION}" -eq "40" ]; then
         vte291 \
         vte-profile
     rpm-ostree install ptyxis
-    if [[ "${BASE_IMAGE_NAME}" =~ "silverblue" ]]; then
-        rpm-ostree override replace \
-        --experimental \
-        --from repo=copr:copr.fedorainfracloud.org:ublue-os:staging \
-            mutter
-    fi
+    # This has been quite broken
+    # if [[ "${BASE_IMAGE_NAME}" =~ "silverblue" ]]; then
+    #     rpm-ostree override replace \
+    #     --experimental \
+    #     --from repo=copr:copr.fedorainfracloud.org:ublue-os:staging \
+    #         mutter
+    # fi
 fi
 
 # Add Nerd Fonts
