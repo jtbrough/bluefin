@@ -16,6 +16,7 @@
 				"input-remapper",
 				"libimobiledevice",
 				"libxcrypt-compat",
+				"lm_sensors",
 				"make",
 				"mesa-libGLU",
 				"nerd-fonts",
@@ -48,7 +49,6 @@
 				"gnome-shell-extension-gsconnect",
 				"gnome-shell-extension-logo-menu",
 				"gnome-shell-extension-search-light",
-				"gnome-shell-extension-auto-power-profile",
 				"libgda-sqlite",
 				"libgda",
 				"libratbag-ratbagd",
@@ -67,6 +67,7 @@
 			],
 			"dx": [
 				"adobe-source-code-pro-fonts",
+				"android-tools",
 				"cascadia-code-fonts",
 				"cockpit-machines",
 				"cockpit-networkmanager",
