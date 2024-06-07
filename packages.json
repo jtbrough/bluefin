@@ -42,6 +42,7 @@
 				"zsh"
 			],
 			"silverblue": [
+				"simple-scan",
 				"gnome-shell-extension-appindicator",
 				"gnome-shell-extension-blur-my-shell",
 				"gnome-shell-extension-caffeine",
@@ -57,6 +58,7 @@
 				"yaru-theme"
 			],
 			"kinoite": [
+				"skanpage",
 				"libadwaita-qt5",
 				"libadwaita-qt6",
 				"kde-runtime-docs",
@@ -86,6 +88,7 @@
 				"docker-buildx-plugin",
 				"docker-compose-plugin",
 				"edk2-ovmf",
+				"flatpak-builder",
 				"genisoimage",
 				"google-droid-sans-mono-fonts",
 				"google-go-mono-fonts",
