@@ -8,11 +8,14 @@
 				"fastfetch",
 				"fish",
 				"firewall-config",
+				"foo2zjs",
 				"gcc",
 				"glow",
 				"gum",
 				"hplip",
+				"krb5-workstation",
 				"ifuse",
+				"input-leap",
 				"input-remapper",
 				"libimobiledevice",
 				"libxcrypt-compat",
@@ -38,7 +41,7 @@
 				"usbmuxd",
 				"wireguard-tools",
 				"xprop",
-				"wl-clipboard", 
+				"wl-clipboard",
 				"zsh"
 			],
 			"silverblue": [
@@ -50,10 +53,12 @@
 				"gnome-shell-extension-gsconnect",
 				"gnome-shell-extension-logo-menu",
 				"gnome-shell-extension-search-light",
+				"gnome-shell-extension-tailscale-gnome-qs",
 				"libgda-sqlite",
 				"libgda",
 				"libratbag-ratbagd",
 				"nautilus-gsconnect",
+				"nautilus-open-any-terminal",
 				"openssh-askpass",
 				"yaru-theme"
 			],
@@ -131,14 +136,18 @@
 			"all": [
 				"firefox-langpacks",
 				"firefox",
+				"podman-docker",
 				"ublue-os-update-services"
 			],
 			"silverblue": [
 				"gnome-extensions-app",
 				"gnome-software-rpm-ostree",
+				"gnome-terminal-nautilus",
 				"gnome-tour"
 			],
 			"kinoite": [
+				"krfb",
+				"krfb-libs",
 				"plasma-welcome"
 			],
 			"dx": []
@@ -146,46 +155,30 @@
 	},
 	"39": {
 		"include": {
-			"all": [
-				"input-leap"
-			],
-			"silverblue": [
-				"gnome-shell-extension-tailscale-gnome-qs",
-				"nautilus-open-any-terminal"
-			],
+			"all": [],
+			"silverblue": [],
 			"dx": [
 				"distrobuilder",
 				"podman-plugins"
 			]
 		},
 		"exclude": {
-			"all": [
-				"podman-docker"
-			],
+			"all": [],
 			"silverblue": [
-				"gnome-terminal-nautilus"
+				
 			],
 			"dx": []
 		}
 	},
 	"40": {
 		"include": {
-			"all": [
-				"input-leap"
-			],
-			"silverblue": [
-				"gnome-shell-extension-tailscale-gnome-qs",
-				"nautilus-open-any-terminal"
-			],
+			"all": [],
+			"silverblue": [],
 			"dx": []
 		},
 		"exclude": {
-			"all":	[
-				"podman-docker"
-			],
-			"silverblue": [
-				"gnome-terminal-nautilus"
-			],
+			"all":	[],
+			"silverblue": [],
 			"dx": []
 		}
 	}
