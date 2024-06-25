@@ -4,6 +4,7 @@
 			"all": [
 				"bash-color-prompt",
 				"bcache-tools",
+				"bootc",
 				"evtest",
 				"fastfetch",
 				"fish",
@@ -129,7 +130,8 @@
 				"ubuntu-family-fonts",
 				"udica",
 				"virt-manager",
-				"virt-viewer"
+				"virt-viewer",
+				"ydotool"
 			]
 		},
 		"exclude": {
