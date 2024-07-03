@@ -1,6 +1,5 @@
-name: aurora 39
+name: Aurora Stable
 on:
-  merge_group:
   pull_request:
     branches:
       - main
@@ -9,7 +8,7 @@ on:
       - '**.md'
       - 'system_files/silverblue/**'
   schedule:
-    - cron: '41 5 * * *'  # 5:41 UTC everyday
+    - cron: '41 5 * * 2'  # 5:41 UTC every Tuesday
   workflow_dispatch:
 
 jobs:
@@ -19,4 +18,4 @@ jobs:
     secrets: inherit
     with:
       brand_name: aurora
-      fedora_version: 39
+      fedora_version: stable
